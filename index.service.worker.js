@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795706260|2113678';
+const CACHE_VERSION = '1795706828|2028268';
 /** @type {string} */
 const CACHE_PREFIX = 'Coop Scoop-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
